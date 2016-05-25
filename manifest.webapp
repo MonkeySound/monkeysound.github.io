@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
-  "name": "Pocket Lift",
+  "name": "Monkey Sound",
   "launch_path": "/index.html",
   "description": "Elevator music generator for awkward moments.",
   "icons": {
     "128": "icon-128x128.png"
   },
   "developer": {
-    "name": "ESCAUX Product Development",
-    "url": "https://github.com/escaux"
+    "name": "Monkey Sound",
+    "url": "https://monkeysound.github.com/"
   },
   "installs_allowed_from": [
     "*"
@@ -18,12 +18,8 @@
   },
   "locales": {
     "en": {
-      "name": "Pocket Lift",
-      "description": "Elevator music generator for awkward moments."
-    },
-    "fr": {
-      "name": "Pocket Lift",
-      "description": "Générateur de musique d'ascenseur."
+      "name": "Monkey Sound",
+      "description": "Monkey sound generators."
     }
   }
 }
