@@ -23,7 +23,7 @@
 
 	var audioCtx = new (window.AudioContext || window.webkitAudioContext)();
 	var playButton = document.getElementById('play');
-	var musicBuffer = loadAudio('bossa.mp3');
+	var musicBuffer = loadAudio('monkey.mp3');
 	var bellBuffer = loadAudio('bell.mp3');
 	var startTimeStamp;
 	var source;

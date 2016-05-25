@@ -3,6 +3,7 @@
 
 # TEAM
 
+  Gerik Bonaert
   Raphael Medaer
   Matthieu Sieben
 

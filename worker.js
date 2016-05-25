@@ -26,7 +26,7 @@ self.addEventListener('install', (event) => {
 			'/main.js',
 			'/styles.css',
 			'/bell.mp3',
-			'/bossa.mp3',
+			'/monkey.mp3',
 		]).then(() => {
 			return self.skipWaiting();
 		});
